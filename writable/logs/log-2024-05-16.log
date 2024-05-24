@@ -1,0 +1,208 @@
+CRITICAL - 2024-05-16 15:15:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:15:33 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:15:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:16:03 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:16:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:16:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:16:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:16:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:16:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:16:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:16:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:16:54 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:16:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:17:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:17:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
+CRITICAL - 2024-05-16 15:17:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login_view.php"
+[Method: GET, Route: /]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('login_view', [], true)
+ 3 APPPATH\Controllers\LoginController.php(11): view('login_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\LoginController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH\Commands\Server\rewrite.php(49): require_once('C:\\xampp\\htdocs\\BTL-WNC\\public\\index.php')
